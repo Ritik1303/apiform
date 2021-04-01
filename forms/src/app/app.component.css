@@ -1,0 +1,14 @@
+h2{
+    color:white;
+}
+div{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#side{
+    background-color: lightcyan;
+}
+#main{
+    background-color: lightskyblue;
+}
