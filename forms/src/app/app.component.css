@@ -7,8 +7,11 @@ div{
     border-radius: 5px;
 }
 #side{
-    background-color: lightcyan;
+    background-color: whitesmoke
 }
 #main{
     background-color: lightskyblue;
+}
+.navbar{
+    border-radius: 5px;
 }

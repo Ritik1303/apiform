@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "firstname": "Ritik",
+      "lastname": "Mrinal",
+      "username": "Ritik_123",
+      "email": "ritik.mrinal@gmail.com",
+      "mobile": "8603439300",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "firstname": "Piyushi",
+      "lastname": "Poddar",
+      "username": "piyushi3101",
+      "email": "piyushi@gmail.com",
+      "mobile": "7894567381",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "country": "India",
+      "alternateemail": [],
+      "alternatemobile": [],
+      "id": 3
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "Kumar",
+      "username": "abhi123",
+      "email": "abhi@gmail.com",
+      "mobile": "7493273289",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "country": "India",
+      "alternateemail": [],
+      "alternatemobile": [],
+      "id": 4
+    },
+    {
+      "firstname": "Dhiraj",
+      "lastname": "Kumar",
+      "username": "dhiraj123",
+      "email": "dhiraj@gmail.com",
+      "mobile": "98432987598",
+      "city": "Patna",
+      "state": "Bihar",
+      "country": "India",
+      "alternateemail": [],
+      "alternatemobile": [],
+      "id": 5
+    }
+  ]
+}
